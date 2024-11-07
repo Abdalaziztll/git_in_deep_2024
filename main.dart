@@ -1,4 +1,4 @@
 void main(List<String> args) {
-  print("Hello World");
-  
+  int counter = 0;
+
 }

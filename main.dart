@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  double counter = 0.0;
-  print("Eiusmod cillum occaecat nulla laboris.");
-  print(counter);
+  int counter = 0;
+  String name = "Hello";
+  print(name + counter.toString());
 }
